@@ -4,6 +4,8 @@
 #
 .utmp/
 /[Ll]ibrary/
+/PackageCache/
+Library/PackageCache/com.unity.burst@*/Runtime/libburst-llvm-16.dylib
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
